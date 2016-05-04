@@ -1,0 +1,1 @@
+a:1:{s:0:"";a:4:{s:13:"numeroDeVotos";i:8;s:12:"votosTotales";i:0;s:14:"promedioExacto";d:0;s:18:"promedioRedondeado";d:0;}}
