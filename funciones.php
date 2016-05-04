@@ -2,7 +2,7 @@
 function connect_to_db()
 {
     //localhost
-  mysql_connect("localhost","root","W3bmy5ql");
+  mysql_connect("localhost","root","password");
   mysql_select_db("director") or die("Cannot select database");
 
 
